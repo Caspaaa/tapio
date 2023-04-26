@@ -24,7 +24,7 @@
 
 	"functions": {
 		"pages/**/*": {
-			"excludeFiles": ["public/**", ".git/**"]
+			"excludeFiles": ".git/**"
 		}
 	}
 }

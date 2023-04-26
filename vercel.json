@@ -20,5 +20,11 @@
 			"src": "/(.*)",
 			"dest": "tapio/wsgi.py"
 		}
-	]
+	],
+
+	"functions": {
+		"pages/**/*": {
+			"excludeFiles": ["public/**", ".git/**"]
+		}
+	}
 }

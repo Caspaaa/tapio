@@ -45,7 +45,7 @@ platformdirs==3.0.0
 promise==2.3
 proto-plus==1.22.0
 psycopg2-binary~=2.9.3
-psycopg2~=2.9.6
+psycopg2~=2.9.3
 pycparser==2.20
 PyJWT==2.3.0
 pyperclip==1.8.2

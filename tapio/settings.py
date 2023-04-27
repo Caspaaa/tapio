@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ji*jl%)(el*t8d(+p^794a$&dsv9!w*4k+0ihcgo=$ge_-_obh
 DEBUG = True
 
 
-ALLOWED_HOSTS=['127.0.0.1', 'tapio-six.vercel.app']
+ALLOWED_HOSTS=['127.0.0.1', 'tapio-six.vercel.app', 'tapio-caspaaa.vercel.app']
 CORS_ORIGIN_ALLOW_ALL = False
 CORS_ORIGIN_WHITELIST = (
     'http://localhost:3000',

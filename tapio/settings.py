@@ -30,6 +30,7 @@ ALLOWED_HOSTS=['127.0.0.1', 'tapio-six.vercel.app', 'tapio-caspaaa.vercel.app']
 CORS_ORIGIN_ALLOW_ALL = False
 CORS_ORIGIN_WHITELIST = (
     'http://localhost:3000',
+    'https://tapio-front.vercel.app'
 )
 
 
